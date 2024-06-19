@@ -10,8 +10,6 @@ Answer the following questions based on your understanding of the installation a
 1. Installation of VS Code:
    - Describe the steps to download and install Visual Studio Code on Windows 11 operating system. Include any prerequisites that might be needed.
 
-      Sure, here’s a simplified guide written as if a student is explaining:
-
       How I Downloaded and Installed Visual Studio Code on Windows 11
       Open My Browser:
 
